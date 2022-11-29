@@ -29,10 +29,6 @@
 		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
-		},
-		{
-			"Name": "RLPlugin",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
