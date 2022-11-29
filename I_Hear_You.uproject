@@ -31,9 +31,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "RLLiveLink",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f6a79afa7d0e4d429be8b993f7b6f5ad"
+			"Name": "RLPlugin",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
